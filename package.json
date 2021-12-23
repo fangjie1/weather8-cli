@@ -1,0 +1,45 @@
+{
+  "_from": "weather8-cli",
+  "_id": "weather8-cli@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-IuEdVv6FV1dzpb9TOGKUOT8uL3KdDrkCrHAFG8Zk3MGWLC1FsJupM3qfgOWlIycbWYe5DQDV1L1jvxpvvvJF6g==",
+  "_location": "/weather8-cli",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "weather8-cli",
+    "name": "weather8-cli",
+    "escapedName": "weather8-cli",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/weather8-cli/-/weather8-cli-1.0.0.tgz",
+  "_shasum": "071c176de653bb6edef71221f63500d2ed43414e",
+  "_spec": "weather8-cli",
+  "_where": "C:\\Users\\FJ\\Desktop\\weather8-cli",
+  "bin": {
+    "weather8": "index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.24.0",
+    "weather8": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "Using npm:",
+  "keywords": [
+    "weather"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "weather8-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
